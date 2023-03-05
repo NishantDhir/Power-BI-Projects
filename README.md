@@ -11,12 +11,14 @@ Combined set of Data Analytical reports or dashboards.
 ```
 
 ### Types of Reports / Dashboards in Domains
-1. Financial and Sales.
-2. Marketing and Supply Chain.
-3. E-commerce.
+1. Finance.
+2. Marketing.
+3. Sales.
 4. FMCG.
-5. Telecom.
-6. Hospitality.
+5. Manufacturing.
+6. Supply Chain
+7. Telecom.
+8. Hospitality.
 
 ### What is Required?
 - Downloading Csv's and performing ETL process in Power BI.
