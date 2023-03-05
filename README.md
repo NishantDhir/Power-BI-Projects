@@ -12,7 +12,7 @@ Combined set of Data Analytical reports or dashboards.
 
 ### Types of Reports / Dashboards in Domains
 1. Financial and Sales.
-2. Marketing.
+2. Marketing and Supply Chain.
 3. E-commerce.
 4. FMCG.
 5. Telecom.
