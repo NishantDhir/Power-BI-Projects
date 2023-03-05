@@ -16,7 +16,7 @@ Combined set of Data Analytical reports or dashboards.
 3. Sales.
 4. FMCG.
 5. Manufacturing.
-6. Supply Chain
+6. Supply Chain.
 7. Telecom.
 8. Hospitality.
 
