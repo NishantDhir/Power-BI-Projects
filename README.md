@@ -19,6 +19,11 @@ Combined set of Data Analytical reports or dashboards.
 6. Supply Chain.
 7. Telecom.
 8. Hospitality.
+9. Banking.
+10. Product. 
+11. EV.
+12. Retail. 
+13. Project. 
 
 ### What is Required?
 - Downloading Csv's and performing ETL process in Power BI.
