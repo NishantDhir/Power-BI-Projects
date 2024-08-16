@@ -14,16 +14,17 @@ Combined set of Data Analytical reports or dashboards.
 1. Finance.
 2. Marketing.
 3. Sales.
-4. FMCG.
-5. Manufacturing.
-6. Supply Chain.
-7. Telecom.
-8. Hospitality.
-9. Banking.
-10. Product. 
-11. EV.
-12. Retail. 
-13. Project. 
+4. HR.
+5. FMCG.
+6. Manufacturing.
+7. Supply Chain.
+8. Telecom.
+9. Hospitality.
+10. Banking.
+11. Product. 
+12. EV.
+13. Retail. 
+14. Project. 
 
 ### What is Required?
 - Downloading Csv's and performing ETL process in Power BI.
