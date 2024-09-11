@@ -29,6 +29,7 @@ Combined set of Data Analytical reports or dashboards.
 16. Food Inspection.
 
 
+
 ### What is Required?
 - Downloading or uploading Csv's and performing ETL process in Power BI or Power BI Service.
 - Developing Data Pipelines in Power BI Service in Microsoft Fabric Enviornment.
